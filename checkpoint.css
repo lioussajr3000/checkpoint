@@ -1,0 +1,100 @@
+li{
+    
+    list-style-type: none;
+    letter-spacing: 3px;
+    
+}
+nav ul{
+  display: flex;
+  
+  
+  
+}
+*{
+    background: rgb(100, 93, 93);
+    padding: 3px;
+
+}
+hr{
+    border: 2px;
+    background-color: red;
+}
+a{
+    height: 25px;
+    width: 25px;
+    background-color: rgb(230, 12, 12);
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.slt{
+    text-align: center;
+    transition: 0,2s;    
+}
+.slt:hover{
+ color: white;
+}
+a:hover{
+    background-color: rgb(253, 8, 233);
+    color: black;
+}
+.cv:hover{ 
+    color: white;
+
+}
+.travaill:hover{
+    color: white
+}
+video{
+    border: 2px solid black;
+    background-color: #b91919;
+}
+.propos:hover{
+color: white;
+}
+td{
+    border: 2px solid black;
+}
+th{
+    border: 2px solid black;
+    background-color: white;
+    
+}
+table{
+    border-collapse: collapse;
+    
+}
+.emodji{
+    height: 50px;
+    display: flex;
+    margin-left:400px ;
+    margin-top: -90px;
+    border-radius: 90px;
+
+}
+form{
+    max-height: 200px;
+    
+    display: grid;
+    flex-direction: column;
+   border: 2px solid black; 
+    letter-spacing : 2px;
+
+}
+.contacte:hover{
+    color: white;
+
+}
+.resau img {
+    width: 25px;
+}
+.footer{
+    display: flex;
+    
+    
+    justify-content: center;
+    align-items: flex-start;
+}
+
+
